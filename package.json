@@ -4,6 +4,7 @@
   "description": "",
   "main": "server.js",
   "dependencies": {
+    "@mapbox/node-pre-gyp": "^1.0.0",
     "alert": "^5.1.4",
     "bcrypt": "^5.0.1",
     "connect-session-sequelize": "^7.1.7",
@@ -23,13 +24,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/OwaisIslam/tech-blog.git"
+    "url": "git+https://github.com/renansm93/tech_blog.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/OwaisIslam/tech-blog/issues"
+    "url": "https://github.com/renansm93/tech_blog/issues"
   },
-  "homepage": "https://github.com/OwaisIslam/tech-blog#readme"
+  "homepage": "https://github.com/renansm93/tech_blog#readme"
 }
