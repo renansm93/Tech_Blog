@@ -34,7 +34,6 @@ This application is covered by the ![GitHub license](https://img.shields.io/badg
 
 ## Contributing
 
-* Xandromus
 * renansm93
 * Any improvements or advice are always welcome.
 
