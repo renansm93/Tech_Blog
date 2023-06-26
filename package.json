@@ -2,7 +2,6 @@
   "name": "tech-blog",
   "version": "1.0.0",
   "description": "",
-  "type": "commonjs",
   "main": "server.js",
   "dependencies": {
     "@mapbox/node-pre-gyp": "^1.0.0",
