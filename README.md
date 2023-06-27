@@ -31,6 +31,7 @@ Follow these steps for installation:
 1. Clone the repository: git clone <repository_url>
 2. Navigate to the project directory: cd TECH_BLOG
 3. Install the dependencies: npm install
+4. Run "source db/schema.sql" to create the database
 
 
 ## Database Configuration

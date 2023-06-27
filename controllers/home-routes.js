@@ -6,7 +6,7 @@ const {
     Comment
 } = require('../models');
 
-// Get all projects and JOIN with user data
+// Get all posts and JOIN with user data
 
 
 router.get('/', (req, res) => {
