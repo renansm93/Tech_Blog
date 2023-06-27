@@ -39,6 +39,7 @@ To configure the database connection, modify the ".env.EXAMPLE" file and rename 
 DB_USER = root
 DB_PASSWORD = "your mysql password"
 DB_NAME = tech_blog_db
+DB_SECRET = SUPER SECRET SECRET
 
 ## Usage
 1. Run npm start
