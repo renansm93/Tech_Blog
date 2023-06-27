@@ -28,9 +28,9 @@ This project is to build a CMS-style blog site similar to a Wordpress site, wher
 ## Installation
 Follow these steps for installation:
 
-1.Clone the repository: git clone <repository_url>
-2.Navigate to the project directory: cd TECH_BLOG
-3.Install the dependencies: npm install
+1. Clone the repository: git clone <repository_url>
+2. Navigate to the project directory: cd TECH_BLOG
+3. Install the dependencies: npm install
 
 
 ## Database Configuration
