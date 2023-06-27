@@ -34,7 +34,7 @@ Follow these steps for installation:
 
 
 ## Database Configuration
-To configure the database connection, modify the envTEMPLATE file and rename it as .env and file with your own database credentials.
+To configure the database connection, modify the ".env.EXAMPLE" file and rename it as .env and file with your own database credentials.
 
 DB_USER = root
 DB_PASSWORD = "your mysql password"
