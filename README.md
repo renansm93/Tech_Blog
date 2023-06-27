@@ -1,4 +1,4 @@
-# TEch--BloGG
+# Tech_BloG
 
 
  # ![](https://img.shields.io/badge/SeQuelize-ExpressJs-blue) ![](https://img.shields.io/badge/license-MIT-brightgreen) ![](https://img.shields.io/badge/mysql-ORM-orange) ![](https://img.shields.io/badge/node.js-Routes-red) ![](https://img.shields.io/badge/MVC-Handlebars-red)
